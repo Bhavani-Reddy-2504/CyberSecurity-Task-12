@@ -1,4 +1,4 @@
-# Task 12 – Windows Security Log Analysis (Part A)
+# Task 12 – Windows Security Log Analysis
 
 ## Overview
 This task demonstrates how to analyze Windows Security Event Logs to
