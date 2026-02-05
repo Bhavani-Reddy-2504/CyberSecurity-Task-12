@@ -1,0 +1,32 @@
+Task 12 – Windows Security Event Log Analysis (Part A)
+
+This task focuses on analyzing Windows Security Event Logs to identify
+failed authentication attempts using Event Viewer.
+
+The analysis was performed on a Windows 11 system in a controlled,
+educational environment. Only Part A of the task was completed as per
+instructions, and Part B was intentionally excluded.
+
+Steps Performed:
+- Opened Windows Event Viewer
+- Navigated to Windows Logs → Security
+- Used the "Filter Current Log" feature
+- Applied Event ID 4625 to identify failed login attempts
+- Reviewed log entries such as timestamp, account name, logon type,
+  and failure reason
+
+Observations:
+- Event ID 4625 represents failed logon attempts
+- Logs provide valuable information for detecting unauthorized access
+- Filtering logs simplifies security investigation
+- Event Viewer is an effective built-in Windows security tool
+
+Limitations:
+- Only Part A was performed
+- No advanced log correlation or scripting was used
+- No external tools were involved
+
+Conclusion:
+This task successfully demonstrated how to analyze Windows Security logs
+to detect failed authentication attempts. The activity improved
+understanding of log-based security monitoring and incident awareness.
